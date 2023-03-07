@@ -1,0 +1,21 @@
+mode: set
+primeapp/main.go:12.13,27.2 6 0
+primeapp/main.go:28.58,31.35 3 1
+primeapp/main.go:31.35,33.3 1 1
+primeapp/main.go:34.2,35.16 2 1
+primeapp/main.go:35.16,37.3 1 1
+primeapp/main.go:38.2,40.19 2 1
+primeapp/main.go:43.54,46.6 2 1
+primeapp/main.go:46.6,48.11 2 1
+primeapp/main.go:48.11,51.4 2 1
+primeapp/main.go:52.3,53.11 2 1
+primeapp/main.go:57.14,62.2 4 1
+primeapp/main.go:64.15,66.2 1 1
+primeapp/main.go:68.36,69.22 1 1
+primeapp/main.go:69.22,71.3 1 1
+primeapp/main.go:73.2,73.11 1 1
+primeapp/main.go:73.11,75.3 1 1
+primeapp/main.go:77.2,77.28 1 1
+primeapp/main.go:77.28,78.15 1 1
+primeapp/main.go:78.15,80.4 1 1
+primeapp/main.go:82.2,82.47 1 1
